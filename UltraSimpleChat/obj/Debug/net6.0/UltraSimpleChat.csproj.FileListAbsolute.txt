@@ -1,0 +1,14 @@
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\bin\Debug\net6.0\UltraSimpleChat.exe
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\bin\Debug\net6.0\UltraSimpleChat.deps.json
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\bin\Debug\net6.0\UltraSimpleChat.runtimeconfig.json
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\bin\Debug\net6.0\UltraSimpleChat.dll
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\bin\Debug\net6.0\UltraSimpleChat.pdb
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\obj\Debug\net6.0\UltraSimpleChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\obj\Debug\net6.0\UltraSimpleChat.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\obj\Debug\net6.0\UltraSimpleChat.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\obj\Debug\net6.0\UltraSimpleChat.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\obj\Debug\net6.0\UltraSimpleChat.dll
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\obj\Debug\net6.0\refint\UltraSimpleChat.dll
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\obj\Debug\net6.0\UltraSimpleChat.pdb
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\obj\Debug\net6.0\UltraSimpleChat.genruntimeconfig.cache
+C:\Users\Vladislav\source\repos\Chat\UltraSimpleChat\obj\Debug\net6.0\ref\UltraSimpleChat.dll
